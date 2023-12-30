@@ -19,4 +19,3 @@ while i < y:
         j += 1
     print()
     i += 1
-
